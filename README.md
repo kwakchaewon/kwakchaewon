@@ -1,17 +1,18 @@
-### Hi there 👋
+### Hi there 
 
 ## Backend Engineer / Developer
-## 소통이 즐거운 Backend 개발자 곽채원 입니다.
+## 소통이 즐거운 Backend 개발자 곽채원 입니다.👋
+### Resume: 
 
-Resume: 
+### Career: 
+#### (2023.02~) KT Aivle School 3기 AI Track (진행 중)
+#### (2019. 08 ~ 2020. 08) 태화이노베이션 SI 사업부 3팀
 
-Stack:
-
-Career:
-1) Front:
-2) Back:
-3) DevOps:
-4) Collaboration: 
+### Stack:
+#### 1) Front:
+#### 2) Back: python
+#### 3) DevOps:
+#### 4) Collaboration: 
 
 
 <!--
