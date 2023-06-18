@@ -8,11 +8,11 @@
 #### - (2019. 08 ~ 2020. 08) 태화이노베이션 SI 사업부 3팀
 <br><br/>
 ## 🏁 Stack
-#### 1) Language: <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-#### 2) Framework: <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=Django&logoColor=white">
-#### 3) DevOps: <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+#### - Language: <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+#### - Framework: <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=Django&logoColor=white">
+#### - DevOps: <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-#### 4) Collaboration: <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/VScode-2F80ED?style=for-the-badge&logo=&logoColor=white"> 
+#### - Collaboration: <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/VScode-2F80ED?style=for-the-badge&logo=&logoColor=white"> 
 
 
 <!--
