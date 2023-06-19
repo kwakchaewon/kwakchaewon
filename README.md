@@ -1,5 +1,5 @@
-## Bio
-### 👋 Backend Engineer / Developer
+## 👋 Bio
+### Backend Engineer / Developer
 #### - 소통하는 Backend 개발자 곽채원 입니다.
 #### - Resume: [Resume/이력서](https://little-bit-cf9.notion.site/56b5bbf4385a4872b54700763239187a)
 <br><br/>
