@@ -4,7 +4,7 @@
 #### - Resume: [Resume/이력서](https://little-bit-cf9.notion.site/56b5bbf4385a4872b54700763239187a)
 <br><br/>
 ## 🏢 Career
-#### - (2023.02~) KT Aivle School 3기 AI Track (~ing)
+#### - (2023.02~07) KT Aivle School 3기 AI Track
 #### - (2019. 08 ~ 2020. 08) 태화이노베이션 SI 사업부 3팀
 <br><br/>
 ## 🏁 Stack
