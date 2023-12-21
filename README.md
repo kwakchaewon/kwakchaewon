@@ -8,7 +8,9 @@
 #### - (2023.02) 순천향대학교 디스플레이 신소재 공학부 졸업
 #### - (2019. 08 ~ 2020. 08) 태화이노베이션 SI 사업부 3팀
 <br><br/>
-## /emotil Project
+## 🚀 Project
+#### - [반려동물 헬스케어 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (Django 기반 백앤드, AWS 인프라 담당)
+#### - [롤 전적검색 플랫폼 dodge.kr](https://github.com/kwakchaewon/dodgekr) (Spring boot 기반 개인 프로젝트)
 <br><br/>
 ## 🏁 Stack
 #### - Language: <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=gradle&logoColor=white">
@@ -18,6 +20,11 @@
 #### - Collaboration: <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 #### - Editor: <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/IntelliiJ-2C2255?style=for-the-badge&logo=intellijidea&logoColor=white">
 <br><br/>
+## 👨‍🎓: Certification
+#### - (2020. 11) 정보처리산업기사
+#### - (2021. 03) 국가 공인 SQL 개발자 (SQLD)
+#### - (2021. 02) AWS Certified Practioner
+#### - (2020. 12) 컴퓨터 활용능력 1급
 
 <!--
 **kwakchaewon/kwakchaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
