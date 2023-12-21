@@ -14,7 +14,7 @@
 #### - (2019. 08 ~ 2020. 08) 태화이노베이션 SI 사업부 3팀
 <br><br/>
 ## 🚀 Project
-#### - [반려동물 헬스케어 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (Django Rest API 기반 백앤드, AWS 인프라 담당)
+#### - [반려동물 헬스케어 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (Django Rest API 구현, AWS 인프라 구축)
 #### - [롤 전적검색 플랫폼 dodge.kr](https://github.com/kwakchaewon/dodgekr) (Spring boot 기반 개인 프로젝트)
 <br><br/>
 ## 🏁 Stack
