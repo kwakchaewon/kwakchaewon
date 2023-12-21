@@ -12,6 +12,9 @@
 #### - [반려동물 헬스케어 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (Django 기반 백앤드, AWS 인프라 담당)
 #### - [롤 전적검색 플랫폼 dodge.kr](https://github.com/kwakchaewon/dodgekr) (Spring boot 기반 개인 프로젝트)
 <br><br/>
+## ✍️ Blog
+#### - [96년생 개발 초보의 블로그](https://ksh03003.tistory.com/) (개발 과정에서 마주한 이슈를 기록합니다.)
+<br><br/>
 ## 🏁 Stack
 #### - Language: <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=gradle&logoColor=white">
 #### - Framework: <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
