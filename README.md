@@ -1,12 +1,14 @@
 ## 👋 Bio
 ### Backend Engineer / Developer
-#### - Django, Spring boot 기반 백앤드 서비스 회사 근무를 희망합니다
-#### - Resume: [Resume/이력서](https://little-bit-cf9.notion.site/56b5bbf4385a4872b54700763239187a)
+#### - Django, Spring boot 기반 백앤드 관련 업무를 희망합니다
+<!--#### - Resume: [Resume/이력서](https://little-bit-cf9.notion.site/56b5bbf4385a4872b54700763239187a)-->
 <br><br/>
 ## 🏢 Career
 #### - (2023.02~07) KT Aivle School 3기 AI Track
 #### - (2023.02) 순천향대학교 디스플레이 신소재 공학부 졸업
 #### - (2019. 08 ~ 2020. 08) 태화이노베이션 SI 사업부 3팀
+<br><br/>
+## /emotil Project
 <br><br/>
 ## 🏁 Stack
 #### - Language: <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=gradle&logoColor=white">
@@ -15,7 +17,7 @@
 #### - DB: <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 #### - Collaboration: <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 #### - Editor: <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/IntelliiJ-2C2255?style=for-the-badge&logo=intellijidea&logoColor=white">
-
+<br><br/>
 
 <!--
 **kwakchaewon/kwakchaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
