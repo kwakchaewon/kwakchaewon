@@ -1,4 +1,4 @@
-## 👋 Bio
+## 👋 Intro
 ### Backend Engineer / Developer
 #### - Django, Spring boot 기반 백앤드 관련 업무를 희망합니다
 <!--#### - Resume: [Resume/이력서](https://little-bit-cf9.notion.site/56b5bbf4385a4872b54700763239187a)-->
@@ -11,11 +11,6 @@
 ## 🚀 Project
 #### - [반려동물 헬스케어 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (Django Rest API 기반 백앤드, AWS 인프라 담당)
 #### - [롤 전적검색 플랫폼 dodge.kr](https://github.com/kwakchaewon/dodgekr) (Spring boot 기반 개인 프로젝트)
-<br><br/>
-## ✍️ Blog & Notion
-#### - [96년생 개발 초보의 블로그](https://ksh03003.tistory.com/)
-#### - [Notion 이력서](https://little-bit-cf9.notion.site/56b5bbf4385a4872b54700763239187a)
-
 <br><br/>
 ## 🏁 Stack
 #### - Language: <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=gradle&logoColor=white">
@@ -30,6 +25,11 @@
 #### - (2021. 03) 국가 공인 SQL 개발자 (SQLD)
 #### - (2021. 02) AWS Certified Practioner
 #### - (2020. 12) 컴퓨터 활용능력 1급
+<br><br/>
+## ✍️ Blog & Notion
+#### - [96년생 개발 초보의 블로그](https://ksh03003.tistory.com/)
+#### - [Notion 이력서](https://little-bit-cf9.notion.site/56b5bbf4385a4872b54700763239187a)
+<br><br/>
 
 <!--
 **kwakchaewon/kwakchaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
