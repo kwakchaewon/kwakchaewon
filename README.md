@@ -1,5 +1,5 @@
 ## 👋 Intro
-### Backend Engineer / Developer
+### Backend Engineer
 - **Django, Spring boot 기반 백앤드 관련 업무**를 희망합니다.
 - 요구사항대로 정확한 API 를 구현하겠습니다.
 - AWS 배포 환경에 대해 공부하고 비용을 줄이는 방법을 찾아내겠습니다.
