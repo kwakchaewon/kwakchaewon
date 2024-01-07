@@ -13,7 +13,8 @@
 #### - (2023.02) 순천향대학교 디스플레이 신소재 공학부 졸업
 #### - (2019. 08 ~ 2020. 08) 태화이노베이션 SI 사업부 3팀
 <br><br/>
-## 🚀 Project (프로젝트를 클릭해주세요!)
+## 🚀 Project
+### 프로젝트 클릭시, 관련 링크로 이동합니다 🎉
 #### - [반려동물 헬스케어 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (Django Rest API 구현, AWS 인프라 구축)
 #### - [롤 전적검색 플랫폼 dodge.kr](https://github.com/kwakchaewon/dodgekr) (Spring boot 기반 개인 프로젝트)
 <br><br/>
