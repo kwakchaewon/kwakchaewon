@@ -15,8 +15,19 @@
 <br><br/>
 ## 🚀 Project
 ### 프로젝트 클릭시, 관련 링크로 이동합니다 🎉
-#### - [반려동물 헬스케어 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (Django Rest API 구현, AWS 인프라 구축)
-#### - [롤 전적검색 플랫폼 dodge.kr](https://github.com/kwakchaewon/dodgekr) (Spring boot 기반 개인 프로젝트)
+#### 1. [반려동물 AI 피부 질환 진단 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (Django, Android Java 기반 팀 프로젝트)
+#### - Django Rest auth, jwt 토큰 기반 로그인/회원가입
+#### - Chat gpt api 자동 답변 기능 최적화: 쓰레딩 모듈 적용, 지연시간 10초 감소
+#### - DRF 기반 Question, Answer, Pet, Hostpital CRUD API
+#### - AWS 기반 인프라: EC2 (uWSGI, Nginx) 서버 배포 및 RDS 연동 (MYSQL)
+
+<br><br/>
+#### 2. [롤 전적검색 플랫폼 dodge.kr](https://github.com/kwakchaewon/dodgekr) (Spring boot 기반 개인 프로젝트)
+#### - 스프링 시큐리티 기반 로그인/회원가입
+#### - 스프링 부트 기반 자유 게시판 CRUD/댓글/추천 시스템
+#### - 라이엇 API 기반 전적검색
+#### - 스프링부트 jar 배포 (EC2, RDS, 고정 IP, FileZila)
+
 <br><br/>
 ## 🏁 Stack
 #### - Language: <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=gradle&logoColor=white">
