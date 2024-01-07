@@ -23,8 +23,8 @@
 
 <br><br/>
 #### 2. [롤 전적검색 플랫폼 dodge.kr](https://github.com/kwakchaewon/dodgekr) (Spring boot 기반 개인 프로젝트)
-#### - 스프링 시큐리티 기반 로그인/회원가입
-#### - 스프링 부트 기반 자유 게시판 CRUD/댓글/추천 시스템
+#### - 스프링 시큐리티 세션 기반 로그인/회원가입
+#### - 스프링 부트 기반 자유 게시판 CRUD, 댓글, 추천 시스템
 #### - 라이엇 API 기반 전적검색
 #### - 스프링부트 jar 배포 (EC2, RDS, 고정 IP, FileZila)
 
