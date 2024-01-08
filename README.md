@@ -34,7 +34,17 @@
 #### - Collaboration: <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 #### - Editor: <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/IntelliiJ-2C2255?style=for-the-badge&logo=intellijidea&logoColor=white">
 <br><br/>
-## 👨‍🎓: Certification
+## ✍️ Article
+마주한 이슈들을 꾸준히 블로그에 업로드 하고 있습니다.
+#### - [스프링 시큐리티 세션 기반 로그인/로그아웃](https://ksh03003.tistory.com/77)
+#### - [AWS VPC, EC2, EBS, S3, ASG 실습](https://ksh03003.tistory.com/61)
+#### - [라이엇 API 분석](https://ksh03003.tistory.com/89)
+#### - [롤 전적 검색 구현](https://ksh03003.tistory.com/90)
+#### - [GitHub 특정 파일 커밋 기록 제거](https://ksh03003.tistory.com/78)
+#### - [DRF 상속 클래스 기반의 view](https://ksh03003.tistory.com/39)
+
+<br><br/>
+## 👨‍🎓 Certification
 #### - (2020. 11) 정보처리산업기사
 #### - (2021. 03) 국가 공인 SQL 개발자 (SQLD)
 #### - (2021. 02) AWS Certified Practioner
