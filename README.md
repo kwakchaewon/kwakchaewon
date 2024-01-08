@@ -1,10 +1,7 @@
 ## 👋 Intro
 ### Backend Engineer
 - **Django, Spring boot 기반 백앤드 관련 업무**를 희망합니다.
-- 요구사항대로 정확한 API 를 구현하겠습니다.
-- AWS 배포 환경에 대해 공부하고 비용을 줄이는 방법을 찾아내겠습니다.
-- 개발과 운영 과정의 오류/복구 과정을 상세히 기록하겠습니다.
-- 다양한 팀원들과 적극적으로 소통하겠습니다.
+
 
 <!--#### - Resume: [Resume/이력서](https://little-bit-cf9.notion.site/56b5bbf4385a4872b54700763239187a)-->
 <br><br/>
@@ -18,14 +15,14 @@
 #### 1. [반려동물 AI 피부 질환 진단 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (Django, Android Java 기반 팀 프로젝트)
 #### - Django Rest auth, jwt 토큰 기반 로그인/회원가입
 #### - Chat gpt api 자동 답변 기능 최적화: 쓰레딩 모듈 적용, 지연시간 10초 감소
-#### - DRF 기반 Question, Answer, Pet, Hostpital CRUD API
+#### - 마이페이지 API 구현: 기본 프로필 사진 Pydenticon 적용
 #### - AWS 기반 인프라: EC2 (uWSGI, Nginx) 서버 배포 및 RDS 연동 (MYSQL)
 
 <br><br/>
 #### 2. [롤 전적검색 플랫폼 dodge.kr](https://github.com/kwakchaewon/dodgekr) (Spring boot 기반 개인 프로젝트)
 #### - 스프링 시큐리티 세션 기반 로그인/회원가입
-#### - 스프링 부트 기반 자유 게시판 CRUD, 댓글, 추천 시스템
-#### - 라이엇 API 기반 전적검색
+#### - JPA 기반 자유 게시글 CRUD, 페이징, 댓글, 제목+내용 검색, 추천 구현
+#### - Riot API 기반 게임 유저 전적 검색 (소환사 정보, 최근 10게임 전적 표기)
 #### - 스프링부트 jar 배포 (EC2, RDS, 고정 IP, FileZila)
 
 <br><br/>
