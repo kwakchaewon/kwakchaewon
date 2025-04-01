@@ -1,7 +1,7 @@
 ## 👋 Intro
 ### Backend Engineer
-- **Django, Spring boot 기반 백앤드 관련 업무**를 희망합니다.
-
+- **Spring boot 기반 백앤드 관련 업무**를 희망합니다.
+- 사용스킬: **Java, Spring Boot, JPA & QueryDSL, Docker, Linux**
 
 <!--#### - Resume: [Resume/이력서](https://little-bit-cf9.notion.site/56b5bbf4385a4872b54700763239187a)-->
 <br><br/>
@@ -9,7 +9,7 @@
 #### - (2023.02~07) KT Aivle School 3기 AI Track
 #### - (2023.02) 순천향대학교 디스플레이 신소재 공학부 졸업
 #### - (2019. 08 ~ 2020. 08) 태화이노베이션 SI 사업부 3팀
-#### - (2024. 02 ~) 이든 티앤에스 RPA 개발부서 백앤드개발
+#### - (2024. 02 ~) 이든 티앤에스 백앤드개발부서
 <br><br/>
 ## 🚀 Project
 ### 프로젝트 클릭시, 관련 링크로 이동합니다 🎉
