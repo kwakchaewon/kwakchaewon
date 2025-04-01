@@ -9,8 +9,8 @@
 #### - (2023.02 ~ 2023.07) KT Aivle School 3기 AI Track
 #### - (2023.02) 순천향대학교 디스플레이 신소재 공학부 졸업
 #### - (2024.02 ~) 이든 티앤에스 백앤드 개발부서
-#### - 경남은행 수주 솔루션 MyBatis to JPA & QueryDSL 마이그레이션
-#### - 자사 솔루션 설치 자동화 및 RPM 팩키직
+####     - 경남은행 수주 솔루션 MyBatis to JPA & QueryDSL 마이그레이션 ( [Maria DB to Oracle Migration](https://ksh03003.tistory.com/77) )
+####     - 자사 솔루션 설치 자동화 및 RPM 패키지
 
 
 <br><br/>
