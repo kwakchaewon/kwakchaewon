@@ -56,5 +56,5 @@
 <br><br/>
 ## ✍️ Blog & Notion
 #### - [96년생 개발 초보의 블로그](https://ksh03003.tistory.com/)
-#### - [Notion]([https://little-bit-cf9.notion.site/56b5bbf4385a4872b54700763239187a](https://tidal-badger-060.notion.site/1795e3aabcb48053b02be3d91b5da9f3?pvs=74))
+#### - [Notion](https://tidal-badger-060.notion.site/1795e3aabcb48053b02be3d91b5da9f3?pvs=74)
 <br><br/>
