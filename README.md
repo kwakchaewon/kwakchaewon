@@ -36,12 +36,12 @@
 #### - ☁️ Server 
 #### - 🗄️ Database
 #### - 🤝 Collaboration
-#### - 🖥️ Editor <img src="https://img.shields.io/badge/IntelliiJ-2C2255?style=for-the-badge&logo=intellijidea&logoColor=white">
+#### - 🖥️ Editor <img src="https://img.shields.io/badge/IntelliiJ-2C2255?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 
 
 #### - AWS: <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 #### - DB: <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-#### - Collaboration: <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+#### - Collaboration: 
 #### - Editor: <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/IntelliiJ-2C2255?style=for-the-badge&logo=intellijidea&logoColor=white">
 <br><br/>
 ## ✍️ Article
