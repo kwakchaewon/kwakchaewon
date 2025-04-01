@@ -32,7 +32,7 @@
 <br><br/>
 ## 🏁 Stack
 #### - 🚀 Language <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=gradle&logoColor=white">
-#### - 🏗️ Framework <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+#### - 🏗️ Framework <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=Django&logoColor=white"> 
 #### - ☁️ Server
 #### - 🗄️ Database
 #### - 🤝 Collaboration
