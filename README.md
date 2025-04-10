@@ -54,6 +54,6 @@
 #### - (2020. 12) 컴퓨터 활용능력 1급
 <br><br/>
 ## ✍️ Blog & Notion
-#### - [Notion 아카이브](https://tidal-badger-060.notion.site/1795e3aabcb48053b02be3d91b5da9f3?pvs=74)
+#### - [백엔드는 처음이라. Notion 아카이브](https://tidal-badger-060.notion.site/1795e3aabcb48053b02be3d91b5da9f3?pvs=74)
 #### - [96년생 개발 초보의 블로그](https://ksh03003.tistory.com/)
 <br><br/>
