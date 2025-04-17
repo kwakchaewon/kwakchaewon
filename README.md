@@ -16,18 +16,29 @@
 <br><br/>
 ## 🚀 Project
 ### 프로젝트 클릭시, 관련 링크로 이동합니다 🎉
-#### 1. [반려동물 AI 피부 질환 진단 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (Django, Android Java 기반 팀 프로젝트)
-#### - Django Rest auth, jwt 토큰 기반 로그인/회원가입
-#### - Chat gpt api 자동 답변 기능 최적화: 쓰레딩 모듈 적용, 지연시간 10초 감소
-#### - 마이페이지 API 구현: 기본 프로필 사진 Pydenticon 적용
-#### - AWS 기반 인프라: EC2 (uWSGI, Nginx) 서버 배포 및 RDS 연동 (MYSQL)
+#### 1. [띵 패스트: 실시간 설문 플랫폼](https://github.com/kwakchaewon/thinkfast-springboot) (개인 프로젝트. 25.04 ~)
+#### - 사용 기술: Spring Boot, Spring Security, JPA & QueryDSL, Vue3, Redis, MariaDB, Web Socket, Docker, Jenkins, Lang Chain, Hugging Face, FAISS
+#### - LangChain과 Hugging Face 연동을 통한 **AI 요약/감정분석 기능** 구현  
+#### - **FAISS 벡터 DB + LangChain RetrievalQAChain** 기반 RAG Q&A 기능 제공  
+#### - Redis Pub/Sub + WebSocket 기반 실시간 설문 참여 현황 표시  
+#### - 객관식/주관식/척도형 질문, 응답 제한 및 설문 종료 시간 설정 등 다양한 설문 기능 지원  
+#### - Spring Security + JWT 인증/인가 및 AOP 기반 공통 응답/로그 설계  
+#### - Flyway로 DB 마이그레이션 관리, Jenkins 기반 CI/CD, HTTPS 적용 배포 (EC2 + RDS)  
+#### - 보안 강화를 위한 **HttpOnly Cookie 기반 인증 방식 적용**
 
 <br><br/>
-#### 2. [롤 전적검색 플랫폼 dodge.kr](https://github.com/kwakchaewon/dodgekr) (Spring boot 기반 개인 프로젝트)
-#### - 스프링 시큐리티 세션 기반 로그인/회원가입
-#### - JPA 기반 자유 게시글 CRUD, 페이징, 댓글, 제목+내용 검색, 추천 구현
+#### 2. [반려동물 AI 피부 질환 진단 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (팀 프로젝트 백앤드 담당. 23.05~23.07)
+#### - 기술스택: Django, EC2, RDS, S3, Nginx + uWSGI
+#### - 회원가입/로그인(JWT), Pydenticon 기본 프로필 이미지 적용
+#### - ChatGPT 자동 답변 최적화 (Threading으로 응답 지연 10초 감소)
+#### - Pet, Hospital, Question, Answer API 설계 및 구현
+
+<br><br/>
+#### 3. [롤 전적검색 플랫폼 dodge.kr](https://github.com/kwakchaewon/dodgekr) (Spring boot 기반 개인 프로젝트)
+#### - Spring Security 세션 기반 인증
+#### - JPA 기반 자유 게시글 CRUD, 페이징, 댓글, 제목+내용 검색 기능
 #### - Riot API 기반 게임 유저 전적 검색 (소환사 정보, 최근 10게임 전적 표기)
-#### - 스프링부트 jar 배포 (EC2, RDS, 고정 IP, FileZila)
+#### - AWS 기반 인프라: EC2, RDS, 고정 IP, FileZila 배포
 
 <br><br/>
 ## 🏁 Stack
