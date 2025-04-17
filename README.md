@@ -17,18 +17,7 @@
 ## 🚀 Project
 ### 프로젝트 클릭시, 관련 링크로 이동합니다 🎉
 #### 1. [띵 패스트: 실시간 설문 플랫폼](https://github.com/kwakchaewon/thinkfast-springboot) (개인 프로젝트. 25.04 ~)
-### 🖥️ 백엔드
-- Spring Boot, Spring Security, JPA & QueryDSL, Redis, MariaDB, Web Socket
-
-### 🎨 프론트엔드
-- Vue 3, Type script
-
-### ⚙️ 인프라 / 배포
-- Docker, Jenkins
-
-### 🤖 AI / 데이터 처리
-- LangChain, Hugging Face, FAISS
-
+#### - 사용 기술: Spring Boot & Security, WebSocket, Vue 3, Docker, LangChain, Hugging Face, FAISS
 #### - LangChain과 Hugging Face 연동을 통한 **AI 요약/감정분석 기능** 구현  
 #### - **FAISS 벡터 DB + LangChain RetrievalQAChain** 기반 RAG Q&A 기능 제공  
 #### - Redis Pub/Sub + WebSocket 기반 실시간 설문 참여 현황 표시  
