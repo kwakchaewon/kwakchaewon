@@ -16,7 +16,7 @@
 <br><br/>
 ## 🚀 Project
 ### 프로젝트 클릭시, 관련 링크로 이동합니다 🎉
-#### 1. [띵 패스트: 실시간 설문 플랫폼](https://github.com/kwakchaewon/thinkfast-springboot) (개인 프로젝트. 25.04 ~)
+#### 1. [띵 패스트: 설문 조사 및 실시간 알림, AI 기반 인사이트 제공](https://github.com/kwakchaewon/thinkfast-springboot) (개인 프로젝트. 25.04 ~)
 #### - 사용 기술: Spring Boot & Security, WebSocket, Vue 3, Docker, LangChain, Hugging Face, FAISS
 #### - LangChain과 Hugging Face 연동을 통한 **AI 요약/감정분석 기능** 구현  
 #### - **FAISS 벡터 DB + LangChain RetrievalQAChain** 기반 RAG Q&A 기능 제공  
