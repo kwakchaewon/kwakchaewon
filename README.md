@@ -3,7 +3,7 @@
 - **Spring Boot 기반 백앤드 관련 업무**를 희망합니다.
 - 주요 스킬: **Java, Spring Boot, JPA & QueryDSL, Docker, Linux**
 
-#### - Resume: [Resume/이력서](https://little-bit-cf9.notion.site/56b5bbf4385a4872b54700763239187a)
+#### - Resume: [Resume/이력서](https://little-bit-cf9.notion.site/2a0f8b3cbc7d8009a3bcf09376ac1990)
 
 <br><br/>
 ## 🏢 Career
