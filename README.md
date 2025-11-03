@@ -22,16 +22,16 @@
 ## 🚀 Project
 #### 1. [띵 패스트: 설문 조사 및 실시간 알림, AI 기반 인사이트 제공](https://github.com/kwakchaewon/thinkfast-springboot) (개인 프로젝트. 25.04 ~)
 #### - 실시간 설문 조사 및 AI 인사이트 플랫폼입니다.
-#### - AI 서비스 구현부터 비동기 통신, Jenkins CI/CD 까지 아키텍쳐를 설계하고 배포했습니다.
+#### - AI 서비스 구현부터 비동기 통신, Jenkins CI/CD 까지 아키텍쳐 설계 및 기능 구현
 
 <br><br/>
 #### 2. [반려동물 AI 피부 질환 진단 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (팀 프로젝트 백앤드 담당. 23.05~23.07)
 #### - Django–Android–Nginx–AWS 기반 AI 웹 서비스 입니다.
-#### - API 개발부터 AWS 배포 까지 서비스 파이프 라인을 구현 했습니다.
+#### - API 개발 및 AWS 배포
 
 
 <br><br/>
-## 🏁 Stack
+## 🏁 Skills
 ####  🚀 Language &nbsp; <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
 ####  🏗️ Framework &nbsp; <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=Django&logoColor=white">
 ####  ☁️ Server &nbsp; <img src="https://img.shields.io/badge/Linux-232F3E?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Docker-527FFF?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
