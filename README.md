@@ -43,8 +43,6 @@
 #### - [백엔드는 처음이라 By Notion](https://tidal-badger-060.notion.site/1795e3aabcb48053b02be3d91b5da9f3?pvs=74)
 #### - [AWS VPC, EC2, EBS, S3, ASG 실습](https://ksh03003.tistory.com/61)
 #### - [라이엇 API 분석](https://ksh03003.tistory.com/89)
-#### - [롤 전적 검색 구현](https://ksh03003.tistory.com/90)
-#### - [DRF 상속 클래스 기반의 view](https://ksh03003.tistory.com/39)
 
 <br><br/>
 ## 👨‍🎓 Certification
