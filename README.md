@@ -8,9 +8,12 @@
 ## 🏢 Career
 #### - (2023.02 ~ 2023.07) KT Aivle School 3기 AI Track
 #### - (2023.02) 순천향대학교 디스플레이 신소재 공학부 졸업
-#### - (2024.02 ~) 이든 티앤에스 기술 연구소 주임 연구원 (백앤드 & 인프라 담당)
-#### &nbsp;&nbsp;&nbsp;&nbsp; - RPA 개발 플랫폼 Worktro MyBatis to JPA & QueryDSL 마이그레이션 (경남은행 수주): [Maria DB to Oracle Migration](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4) 
-#### &nbsp;&nbsp;&nbsp;&nbsp; - 솔루션 설치 자동화 및 RPM 패키징
+#### - (2024.02 ~) 이든 티앤에스 기술 연구소 주임
+#### &nbsp;&nbsp;&nbsp;&nbsp; - MyBatis → JPA/QueryDSL 리팩토링 (경남은행 수주 RPA 솔루션): [MyBatis → JPA/QueryDSL 리팩토링 규율](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4) 
+#### &nbsp;&nbsp;&nbsp;&nbsp; - Worktro UI 개선 (Vue2 → Vue3 Migration)
+#### &nbsp;&nbsp;&nbsp;&nbsp; - 로그 표준화 및 Kabina 시각화 시스템 구축
+#### &nbsp;&nbsp;&nbsp;&nbsp; - 고객사 설치 자동화: RPM 설치 패키지 + Flyway 도입
+
 
 
 <br><br/>
