@@ -20,15 +20,8 @@
 
 <br><br/>
 ## 🚀 Project
-### 프로젝트 클릭시, 관련 링크로 이동합니다 🎉
 #### 1. [띵 패스트: 설문 조사 및 실시간 알림, AI 기반 인사이트 제공](https://github.com/kwakchaewon/thinkfast-springboot) (개인 프로젝트. 25.04 ~)
-#### - LangChain과 Hugging Face 연동을 통한 **AI 요약/감정분석 기능** 구현  
-#### - **FAISS 벡터 DB + LangChain RetrievalQAChain** 기반 RAG Q&A 기능 제공  
-#### - Redis Pub/Sub + WebSocket 기반 실시간 알림 구현 (설문 응답, 설문 종료, 인사이트 알림 지원)
-#### - 객관식/주관식/척도형 설문, 설문 종료 시간 설정 기능 지원  
-#### - Spring Security + JWT 인증/인가 및 AOP 기반 공통 응답/로그 설계  
-#### - Flyway로 DB 마이그레이션 관리, Jenkins 기반 CI/CD, HTTPS 적용 배포 (EC2 + RDS)  
-#### - 보안 강화를 위한 **HttpOnly Cookie 기반 인증 적용**
+#### “실시간 설문 조사 및 AI 인사이트 플랫폼입니다. AI 서비스 구현부터 비동기 통신, CI/CD 까지 아키텍쳐를 설계하고 배포했습니다.”
 
 <br><br/>
 #### 2. [반려동물 AI 피부 질환 진단 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (팀 프로젝트 백앤드 담당. 23.05~23.07)
