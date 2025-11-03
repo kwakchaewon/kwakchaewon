@@ -1,5 +1,5 @@
 ## 👋 Intro
-### Backend Engineer
+### 개발자 곽채원 입니다.
 - **Spring Boot 기반 백앤드 관련 업무**를 희망합니다.
 - 주요 스킬: **Java, Spring Boot, JPA & QueryDSL, Docker, Linux**
 
