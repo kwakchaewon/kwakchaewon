@@ -21,14 +21,14 @@
 <br><br/>
 ## 🚀 Project
 #### 1. [띵 패스트: 설문 조사 및 실시간 알림, AI 기반 인사이트 제공](https://github.com/kwakchaewon/thinkfast-springboot) (개인 프로젝트. 25.04 ~)
-#### “실시간 설문 조사 및 AI 인사이트 플랫폼입니다. AI 서비스 구현부터 비동기 통신, CI/CD 까지 아키텍쳐를 설계하고 배포했습니다.”
+#### - 실시간 설문 조사 및 AI 인사이트 플랫폼입니다.
+#### - AI 서비스 구현부터 비동기 통신, Jenkins CI/CD 까지 아키텍쳐를 설계하고 배포했습니다.
 
 <br><br/>
 #### 2. [반려동물 AI 피부 질환 진단 플랫폼 강아지킴](https://github.com/kwakchaewon/kangazikim) (팀 프로젝트 백앤드 담당. 23.05~23.07)
-#### - 기술스택: Django, EC2, RDS, S3, Nginx + uWSGI
-#### - 회원가입/로그인(JWT), Pydenticon 기본 프로필 이미지 적용
-#### - ChatGPT 자동 답변 최적화 (Threading으로 응답 지연 10초 감소)
-#### - Pet, Hospital, Question, Answer API 설계 및 구현
+#### - Django–Android–Nginx–AWS 기반 AI 웹 서비스 입니다.
+#### - API 개발부터 AWS 배포 까지 서비스 파이프 라인을 구현 했습니다.
+
 
 <br><br/>
 ## 🏁 Stack
