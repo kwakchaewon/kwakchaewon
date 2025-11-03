@@ -1,9 +1,10 @@
 ## 👋 Intro
-### 개발자 곽채원 입니다.
+### 백앤드 개발자 곽채원 입니다.
 - **Spring Boot 기반 백앤드 관련 업무**를 희망합니다.
 - 주요 스킬: **Java, Spring Boot, JPA & QueryDSL, Docker, Linux**
 
-<!--#### - Resume: [Resume/이력서](https://little-bit-cf9.notion.site/56b5bbf4385a4872b54700763239187a)-->
+#### - Resume: [Resume/이력서](https://little-bit-cf9.notion.site/56b5bbf4385a4872b54700763239187a)
+
 <br><br/>
 ## 🏢 Career
 #### - (2023.02 ~ 2023.07) KT Aivle School 3기 AI Track
