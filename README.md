@@ -20,21 +20,19 @@
 
 <br><br/>
 
-## 👨‍🎓 Certification
-#### - (2020. 11) 정보처리산업기사
-#### - (2021. 03) 국가 공인 SQL 개발자 (SQLD)
-#### - (2021. 02) AWS Certified Practioner
-#### - (2020. 12) 컴퓨터 활용능력 1급
-#### - (2025. 07) 정보처리기사
-
-<br><br/>
-
 ## 🏁 Skills
 ####  🚀 Language &nbsp; <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
 ####  🏗️ Framework &nbsp; <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=Django&logoColor=white">
 ####  ☁️ Server &nbsp; <img src="https://img.shields.io/badge/Linux-232F3E?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Docker-527FFF?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 ####  🗄️ Database &nbsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 ####  🖥️ Editor & Collaboration &nbsp; <img src="https://img.shields.io/badge/IntelliiJ-2C2255?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+
+## 👨‍🎓 Certification
+#### - (2020. 11) 정보처리산업기사
+#### - (2021. 03) 국가 공인 SQL 개발자 (SQLD)
+#### - (2021. 02) AWS Certified Practioner
+#### - (2020. 12) 컴퓨터 활용능력 1급
+#### - (2025. 07) 정보처리기사
 
 <br><br/>
 
