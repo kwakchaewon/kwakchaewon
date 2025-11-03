@@ -11,7 +11,7 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp; - Worktro UI 개선 (Vue2 → Vue3 Migration)
 #### &nbsp;&nbsp;&nbsp;&nbsp; - 로그 표준화 및 Kabina 시각화 시스템 구축
 #### &nbsp;&nbsp;&nbsp;&nbsp; - 고객사 설치 자동화: RPM 설치 패키지 + Flyway 도입
-<br>
+<br><br/>
 #### - (2023.02 ~ 2023.07) KT Aivle School 3기 AI Track
 #### - (2023.02) 순천향대학교 디스플레이 신소재 공학부 졸업
 #### - (2019.09 ~ 2020.07) 국민은행 해지 서류 분류 시스템 고도화 프로젝트: Oz Report 를 활용한 SQL 통계 리포트 작성
