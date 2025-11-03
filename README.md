@@ -49,6 +49,8 @@
 #### - Django–Android–Nginx–AWS 기반 AI 웹 서비스 입니다.
 #### - API 개발 및 AWS 배포
 
+<br><br/>
+
 ## ✍️ Archive
 마주한 이슈를 꾸준히 기록하고 있습니다.
 #### - [백엔드는 처음이라 By Notion](https://tidal-badger-060.notion.site/1795e3aabcb48053b02be3d91b5da9f3?pvs=74)
