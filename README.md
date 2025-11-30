@@ -2,8 +2,6 @@
 
 ### 백엔드 개발자
 
-주요 스킬: **Java, Spring Boot, Docker, Linux**
-
 ---
 
 ## 🏢 Career
@@ -11,8 +9,7 @@
 ### 이든 티앤에스 기술 연구소 주임
 **2024.02 ~ ing**
 
-- **MyBatis → JPA/QueryDSL 리팩토링** (경남은행 수주 RPA 솔루션)  
-  → [리팩토링 규율](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4)
+- **[MyBatis → JPA/QueryDSL 리팩토링](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4)** (경남은행 수주 RPA 솔루션)  
 
 - **Worktro UI 개선** (Vue2 → Vue3 Migration)
 
@@ -31,7 +28,7 @@
 
 <img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat-square&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Django-008000?style=flat-square&logo=Django&logoColor=white">
 
-<img src="https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Docker-527FFF?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Docker-527FFF?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 
 ---
 
