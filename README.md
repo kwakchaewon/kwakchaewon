@@ -22,35 +22,18 @@
 
 <br></br>
 
-## 👨‍🎓 Certification
-
-- **정보처리기사** (2025. 07)
-- **국가 공인 SQL 개발자 (SQLD)** (2021. 03)
-- **AWS Certified Practitioner** (2021. 02)
-- **컴퓨터 활용능력 1급** (2020. 12)
-  
-<br></br>
-
 ## 🚀 Projects
 
-### 1. 띵 패스트
-**개인 프로젝트 | 2025.04 ~**
-
-실시간 설문 조사 및 AI 인사이트 플랫폼
-
-- AI 서비스 구현부터 비동기 통신, Jenkins CI/CD까지 아키텍처 설계 및 기능 구현
-- [Repository](https://github.com/kwakchaewon/thinkfast-springboot)
-
-### 2. 강아지킴
+### 1. 띵 패스트. 실시간 설문 조사 및 AI 인사이트 플랫폼
+**개인 프로젝트 | 2025.05 ~ ing**
+- [AI 서비스 구현부터 비동기 통신, Jenkins CI/CD까지 아키텍처 설계 및 기능 구현](https://github.com/kwakchaewon/thinkfast-springboot)
+<br></br>
+### 2. 강아지킴. 반려동물 AI 피부 질환 진단 플랫폼
 **팀 프로젝트 (백엔드 담당) | 2023.05 ~ 2023.07**
-
-반려동물 AI 피부 질환 진단 플랫폼 (Django–Android–Nginx–AWS)
-
 - API 개발 및 AWS 배포
 - [Repository](https://github.com/kwakchaewon/kangazikim)
 
 <br></br>
-
 ## ✍️ Archive
 
 기술 이슈와 학습 내용을 기록하고 있습니다.
@@ -59,13 +42,14 @@
 - [AWS VPC, EC2, EBS, S3, ASG 실습](https://ksh03003.tistory.com/61)
 - [라이엇 API 분석](https://ksh03003.tistory.com/89)
 
----
+<br></br>
 
-<div align="center">
+## 👨‍🎓 Certification
 
-<img src="https://github-readme-stats.vercel.app/api?username=kwakchaewon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakchaewon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+- **정보처리기사** (2025. 07)
+- **국가 공인 SQL 개발자 (SQLD)** (2021. 03)
+- **AWS Certified Practitioner** (2021. 02)
+- **컴퓨터 활용능력 1급** (2020. 12)
 
 </div>
 
