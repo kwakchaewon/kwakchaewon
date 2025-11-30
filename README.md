@@ -1,8 +1,10 @@
-# 👋 곽채원
+## 🛠 Skills
 
-### 백엔드 개발자
+<img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat-square&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Django-008000?style=flat-square&logo=Django&logoColor=white">
 
----
+<img src="https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Docker-527FFF?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+
+<br></br>
 
 ## 🏢 Career
 
@@ -14,28 +16,20 @@
 - **로그 표준화 및 Kabina 시각화 시스템 구축**
 
 - **고객사 설치 자동화**: RPM 설치 패키지 + Flyway 도입
-
+<br></br>
 ### 태화이노베이션 (2019.09 ~ 2020.07)
 - **국민은행 해지 서류 분류 시스템 고도화 프로젝트**
----
 
-## 🛠 Skills
-
-<img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat-square&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Django-008000?style=flat-square&logo=Django&logoColor=white">
-
-<img src="https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/Docker-527FFF?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-
----
+<br></br>
 
 ## 👨‍🎓 Certification
 
 - **정보처리기사** (2025. 07)
-- **정보처리산업기사** (2020. 11)
 - **국가 공인 SQL 개발자 (SQLD)** (2021. 03)
 - **AWS Certified Practitioner** (2021. 02)
 - **컴퓨터 활용능력 1급** (2020. 12)
-
----
+  
+<br></br>
 
 ## 🚀 Projects
 
@@ -55,7 +49,7 @@
 - API 개발 및 AWS 배포
 - [Repository](https://github.com/kwakchaewon/kangazikim)
 
----
+<br></br>
 
 ## ✍️ Archive
 
