@@ -1,6 +1,6 @@
 ## 👋 Intro
 ### 백앤드 개발자 곽채원 입니다.
-- 주요 스킬: **Java, Spring Boot, JPA & QueryDSL, Docker, Linux**
+- 주요 스킬: **Java, Spring Boot, Docker, Linux**
 - [Resume/이력서](https://little-bit-cf9.notion.site/2a0f8b3cbc7d8009a3bcf09376ac1990)
 
 <br><br/>
@@ -13,9 +13,7 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp; - 고객사 설치 자동화: RPM 설치 패키지 + Flyway 도입
 
 <br><br/>
-
-#### (2023.02 ~ 2023.07) KT Aivle School 3기 AI Track 수료
-#### (2019.09 ~ 2020.07) 국민은행 해지 서류 분류 시스템 고도화 프로젝트
+#### (2019.09 ~ 2020.07) [태화이노베이션] 국민은행 해지 서류 분류 시스템 고도화 프로젝트
 
 <br><br/>
 
