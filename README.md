@@ -24,7 +24,7 @@
 
 ## 🚀 Projects
 
-### 1. 띵 패스트. 실시간 설문 조사 및 AI 인사이트 플랫폼
+### 1. [띵 패스트. 실시간 설문 조사 및 AI 인사이트 플랫폼](http://3.37.14.99/)
 **개인 프로젝트 | 2025.05 ~ ing**
 - [AI 서비스 구현부터 비동기 통신, Jenkins CI/CD까지 아키텍처 설계 및 기능 구현](https://github.com/kwakchaewon/thinkfast-springboot)
 <br></br>
