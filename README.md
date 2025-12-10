@@ -33,8 +33,7 @@
 <br></br>
 ### 2. [강아지킴. 반려동물 AI 피부 질환 진단 플랫폼](https://github.com/kwakchaewon/kangazikim)
 **팀 프로젝트 (백엔드 담당) | 2023.05 ~ 2023.07**
-- API 개발 및 AWS 배포
-- [Repository](https://github.com/kwakchaewon/kangazikim)
+- API 개발 및 AWS nginx + django 기반 배포
 
 <br></br>
 ## ✍️ Archive
