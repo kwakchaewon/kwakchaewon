@@ -24,13 +24,14 @@
 
 ## 🚀 Projects
 
-### 1. [띵 패스트. 실시간 설문 조사 및 AI 인사이트 플랫폼](http://3.37.14.99)
+### 1. [띵 패스트. 실시간 설문 조사 및 AI 인사이트 플랫폼](https://github.com/kwakchaewon/thinkfast-springboot)
 **개인 프로젝트 | 2025.05 ~ ing**
-- URL: [http://3.37.14.99/](http://3.37.14.99). 테스트 계정 정보: test@naver.com, 12345678
-- 아키텍쳐 구성: [GitHub - Jenkins - Docker 기반 CI/CD 파이프라인 구축 + 비용 절감 전략 수립 (EventBridge + Lambda EC2 런타임 제어)](https://github.com/kwakchaewon/thinkfast-springboot?tab=readme-ov-file#아키텍쳐)
+- URL: [http://3.37.14.99](http://3.37.14.99). 테스트 계정 정보: test@naver.com, 12345678
+- API 명세서: [Swagger](http://3.37.14.99/swagger-ui/index.html#/)
+- 아키텍쳐: [GitHub - Jenkins - Docker 기반 CI/CD 파이프라인 구축 + 비용 절감 전략 수립 (EventBridge + Lambda EC2 런타임 제어)](https://github.com/kwakchaewon/thinkfast-springboot?tab=readme-ov-file#아키텍쳐)
 - [AI 서비스 구현부터 비동기 통신, Jenkins CI/CD까지 아키텍처 설계 및 기능 구현](https://github.com/kwakchaewon/thinkfast-springboot)
 <br></br>
-### 2. 강아지킴. 반려동물 AI 피부 질환 진단 플랫폼
+### 2. [강아지킴. 반려동물 AI 피부 질환 진단 플랫폼](https://github.com/kwakchaewon/kangazikim)
 **팀 프로젝트 (백엔드 담당) | 2023.05 ~ 2023.07**
 - API 개발 및 AWS 배포
 - [Repository](https://github.com/kwakchaewon/kangazikim)
