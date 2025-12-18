@@ -10,7 +10,7 @@
 
 ### 이든 티앤에스 주임 연구원 (2024.02 ~ ing)
 - **[MyBatis → JPA/QueryDSL 리팩토링](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4)** (경남은행 수주 RPA 솔루션)  
-- **Worktro 솔루션 보안 강화 및 한화 큐셀 납품 대응**
+- **[Worktro 솔루션 보안 강화 및 한화 큐셀 납품 대응](https://tidal-badger-060.notion.site/28c5e3aabcb480ba8464fccbc5495d11?v=28c5e3aabcb4810f8aac000c48dd540d)**
 - **Worktro UI 개선** (Vue2 → Vue3 Migration)
 
 - **로그 표준화 및 Kabina 시각화 시스템 구축**
