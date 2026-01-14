@@ -9,13 +9,12 @@
 ## 🏢 Career
 
 ### 이든 티앤에스 주임 연구원 (2024.02 ~ ing)
-- **[MyBatis → JPA/QueryDSL 리팩토링](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4)** (경남은행 수주 RPA 솔루션)  
-- **[Worktro 솔루션 보안 강화 및 한화 큐셀 납품 대응](https://tidal-badger-060.notion.site/28c5e3aabcb480ba8464fccbc5495d11?v=28c5e3aabcb4810f8aac000c48dd540d)**
-- **Worktro UI 개선** (Vue2 → Vue3 Migration)
-- **RPM · Docker 기반 설치 패키지 표준화**: RHEL 계열 3건, Debian 계열 4건 구축
+- **[은행권 표준 Oracle 환경 대응을 위한 MyBatis to JPA/QueryDSL 리팩토링](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4)** (경남은행 수주 RPA 솔루션)  
+- **[솔루션 보안 강화 및 H사 납품 대응 (행안부 「주요정보통신기반시설 기술적 취약점 분석·평가 방법(2021)」 기준 보안 취약점 항목 대응 방안 수립)](https://tidal-badger-060.notion.site/28c5e3aabcb480ba8464fccbc5495d11?v=28c5e3aabcb4810f8aac000c48dd540d)**
+- **Docker · RPM 기반 설치 패키지 표준화**: RHEL 계열 3건, Debian 계열 4건 구축
 <br></br>
 ### 태화이노베이션 (2019.09 ~ 2020.07)
-- **국민은행 해지 서류 분류 시스템 고도화 프로젝트**
+- **국민은행 해지 서류 분류 시스템 고도화 프로젝트: 유지 보수 및 Oz 통계 리포트 작성**
 
 <br></br>
 
