@@ -1,63 +1,112 @@
 <div align="center">
 
-### 📁 Portfolio
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-바로가기-D97757?style=for-the-badge&logo=githubpages&logoColor=white)](https://kwakchaewon.github.io/chaewon_portfolio/#2)
 
 </div>
 
-<br></br>
+<br>
 
-## 🛠 Skills
+## 🛠 Stack
 
-| | |
-|:---|:---|
-| **Language** | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white"> |
-| **Framework** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"> |
-| **Infra** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/RPM-EE0000?style=flat-square&logo=redhat&logoColor=white"> <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=flat-square&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"> |
-| **Tool** | <img src="https://img.shields.io/badge/Claude_Design-D97757?style=flat-square&logo=claude&logoColor=white"> <img src="https://img.shields.io/badge/Claude_Security-D97757?style=flat-square&logo=claude&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> |
+<table>
+  <tr>
+    <td><b>Language</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Framework</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+      <img src="https://img.shields.io/badge/RPM-EE0000?style=flat-square&logo=redhat&logoColor=white">
+      <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=flat-square&logo=aws&logoColor=white">
+      <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tool</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Design-D97757?style=flat-square&logo=claude&logoColor=white">
+      <img src="https://img.shields.io/badge/Claude_Security-D97757?style=flat-square&logo=claude&logoColor=white">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-<br></br>
+---
 
 ## 🏢 Career
 
-### 이든 티앤에스 기술 연구소 백앤드 및 기술 지원 담당 (2024.02 ~ ing)
-- **[은행권 표준 Oracle 환경 대응을 위한 MyBatis to JPA/QueryDSL 리팩토링](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4)**
-- **[솔루션 보안 강화 및 H사 납품 대응<br>(과학기술부 「주요정보통신기반시설 기술적 취약점 분석·평가 방법(2021)」 기준 취약 항목 대응 방안 수립)](https://tidal-badger-060.notion.site/28c5e3aabcb480ba8464fccbc5495d11?v=28c5e3aabcb4810f8aac000c48dd540d)**
-- **8개 OS 대상 Docker · RPM 설치 패키지 표준화**: RHEL 계열 3건, Debian 계열 4건 구축, Window 계열
-<br></br>
-### 태화이노베이션 (2019.09 ~ 2020.07)
-- **국민은행 해지 서류 분류 시스템 고도화 프로젝트: 유지 보수 및 Oz 통계 리포트 작성**
+> **이든티앤에스** · 기술연구소 백엔드 / 기술지원 `2024.02 ~ ing`
 
-<br></br>
+- **[은행권 표준 Oracle 환경 대응을 위한 MyBatis → JPA/QueryDSL 리팩토링](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4)**
+- **[솔루션 보안 강화 및 H사 납품 대응](https://tidal-badger-060.notion.site/28c5e3aabcb480ba8464fccbc5495d11?v=28c5e3aabcb4810f8aac000c48dd540d)**  
+  └ 과학기술부 「주요정보통신기반시설 기술적 취약점 분석·평가 방법(2021)」 기준 취약 항목 대응 방안 수립
+- **8개 OS 대상 Docker · RPM 설치 패키지 표준화**  
+  └ RHEL 계열 3건, Debian 계열 4건, Windows 계열 구축
+
+> **태화이노베이션** `2019.09 ~ 2020.07`
+
+- **국민은행 해지 서류 분류 시스템 고도화** · 유지보수 및 Oz 통계 리포트 작성
+
+---
 
 ## 🚀 Projects
 
-### 1. [띵 패스트. 실시간 설문 조사 및 AI 인사이트 플랫폼](https://github.com/kwakchaewon/thinkfast-springboot)
-**개인 프로젝트 | 2025.05 ~ ing**
-- URL: [http://3.37.14.99](http://3.37.14.99). 테스트 계정 정보: test@naver.com, 12345678
-- API 명세서: [Swagger](http://3.37.14.99/swagger-ui/index.html#/)
-- 아키텍쳐: [GitHub - Jenkins - Docker 기반 CI/CD 파이프라인 구축 + 비용 절감 전략 수립 (EventBridge + Lambda EC2 런타임 제어)](https://github.com/kwakchaewon/thinkfast-springboot?tab=readme-ov-file#아키텍쳐)
-- [AI 서비스 구현부터 비동기 통신, Jenkins CI/CD까지 아키텍처 설계 및 기능 구현](https://github.com/kwakchaewon/thinkfast-springboot)
-<br></br>
-### 2. [강아지킴. 반려동물 AI 피부 질환 진단 플랫폼](https://github.com/kwakchaewon/kangazikim)
-**팀 프로젝트 (백엔드 담당) | 2023.05 ~ 2023.07**
-- API 개발 및 AWS nginx + django 기반 배포
+### 🟢 [띵 패스트 — 실시간 설문 조사 & AI 인사이트 플랫폼](https://github.com/kwakchaewon/thinkfast-springboot)
+`개인 프로젝트` · `2025.05 ~ ing`
+- 🔗 Demo: [http://3.37.14.99](http://3.37.14.99) · 테스트 계정 `test@naver.com` / `12345678`
+- 📑 API 명세: [Swagger UI](http://3.37.14.99/swagger-ui/index.html#/)
+- ⚙️ [GitHub → Jenkins → Docker CI/CD 파이프라인 + 비용 절감 전략(EventBridge + Lambda EC2 런타임 제어)](https://github.com/kwakchaewon/thinkfast-springboot?tab=readme-ov-file#아키텍쳐)
+- AI 서비스, 비동기 통신, CI/CD까지 아키텍처 설계 및 기능 구현
 
-<br></br>
+### 🐶 [강아지킴 — 반려동물 AI 피부 질환 진단 플랫폼](https://github.com/kwakchaewon/kangazikim)
+`팀 프로젝트 (백엔드)` · `2023.05 ~ 2023.07`
+- API 개발 및 AWS nginx + Django 기반 배포
+
+---
+
 ## ✍️ Archive
 
 기술 이슈와 학습 내용을 기록하고 있습니다.
 
-- [백엔드는 처음이라 By Notion](https://tidal-badger-060.notion.site/1795e3aabcb48053b02be3d91b5da9f3?pvs=74)
+- [백엔드는 처음이라 (Notion)](https://tidal-badger-060.notion.site/1795e3aabcb48053b02be3d91b5da9f3?pvs=74)
 - [AWS VPC, EC2, EBS, S3, ASG 실습](https://ksh03003.tistory.com/61)
 - [라이엇 API 분석](https://ksh03003.tistory.com/89)
 
-<br></br>
+---
 
-## 👨‍🎓 Certification
+## 📜 Certification
 
-- **정보처리기사** (2025. 07)
-- **국가 공인 SQL 개발자 (SQLD)** (2021. 03)
-- **AWS Certified Practitioner** (2021. 02)
-- **컴퓨터 활용능력 1급** (2020. 12)
+| 자격증 | 취득 |
+|:---|:---:|
+| 정보처리기사 | 2025.07 |
+| 국가공인 SQL 개발자 (SQLD) | 2021.03 |
+| AWS Certified Cloud Practitioner | 2021.02 |
+| 컴퓨터활용능력 1급 | 2020.12 |
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kwakchaewon&show_icons=true&hide_border=true&title_color=D97757&icon_color=6DB33F&include_all_commits=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakchaewon&layout=compact&hide_border=true&title_color=D97757&langs_count=8" height="160"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:D97757&height=120&section=footer" width="100%"/>
+
+</div>
