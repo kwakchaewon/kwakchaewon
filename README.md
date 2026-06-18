@@ -11,7 +11,7 @@
 
 ## 🏢 Career
 
-### 이든 티앤에스 기술연구소 전임 (2024.02 ~ ing)
+### 이든 티앤에스 기술연구소 백앤드 및 기술 지원 담당 (2024.02 ~ ing)
 - **[은행권 표준 Oracle 환경 대응을 위한 MyBatis to JPA/QueryDSL 리팩토링](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4)**
 - **[솔루션 보안 강화 및 H사 납품 대응<br>(과학기술부 「주요정보통신기반시설 기술적 취약점 분석·평가 방법(2021)」 기준 취약 항목 대응 방안 수립)](https://tidal-badger-060.notion.site/28c5e3aabcb480ba8464fccbc5495d11?v=28c5e3aabcb4810f8aac000c48dd540d)**
 - **8개 OS 대상 Docker · RPM 설치 패키지 표준화**: RHEL 계열 3건, Debian 계열 4건 구축, Window 계열
