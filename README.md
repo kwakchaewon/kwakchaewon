@@ -67,12 +67,13 @@
 ---
 
 ## 🚀 Projects
-### 🔐  [QuSign — NIST PQC 표준 기반 전자서명 SaaS](https://github.com/kwakchaewon/QuSign)
+### 🔐 [QuSign — NIST PQC 표준 기반 전자서명 SaaS](https://github.com/kwakchaewon/QuSign)
 `개인 프로젝트 · 2026.04 ~ ing`
-- 🔗 Demo: https://qusign.link
-- 🛡️ 양자 컴퓨터에도 안전한 ML-DSA(NIST FIPS 204) 기반 전자서명 — PDF 업로드부터 서명·검증까지 웹에서 완결
-- ⚙️ GitHub Actions → ECR → EC2 CI/CD 파이프라인 + EventBridge + Lambda EC2 런타임 스케줄링으로 비용 33% 절감
-- ML-DSA 키생성·서명·검증(Bouncy Castle 1.84 JCA), PDF 서명값 삽입/추출(PDFBox), 감사 로그(append-only, 전자서명법 10년 보관), Redis Pub/Sub + SSE 실시간 알림, 번들 서명(최대 5파일), OWASP Top 10 보안 점검 완료
+- 🔗 Demo: [https://qusign.link](https://qusign.link)
+- 🛡️ ML-DSA(NIST FIPS 204) 기반 전자서명 — PDF 업로드·서명·검증을 웹에서 완결, 양자 컴퓨터에도 안전
+- ⚙️ [GitHub Actions → ECR → EC2 CI/CD + EventBridge·Lambda EC2 런타임 스케줄링으로 인프라 비용 33% 절감](https://github.com/kwakchaewon/QuSign?tab=readme-ov-file#아키텍쳐)
+- ML-DSA 키생성·서명·검증(Bouncy Castle 1.84 JCA) · PDF 서명값 삽입/추출(PDFBox) · 번들 서명(최대 5파일) · Redis Pub/Sub + SSE 실시간 알림 · 감사 로그 append-only(전자서명법 10년 보관) · OWASP Top 10 점검 완료
+
 
 ### 🐶 [강아지킴 — 반려동물 AI 피부 질환 진단 플랫폼](https://github.com/kwakchaewon/kangazikim)
 `팀 프로젝트 (백엔드)` · `2023.05 ~ 2023.07`
