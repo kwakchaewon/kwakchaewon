@@ -1,7 +1,5 @@
 <div align="center">
 
-백엔드 개발자 · Java / Spring Boot · 보안 & 인프라 관심
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-바로가기-D97757?style=for-the-badge&logo=githubpages&logoColor=white)](https://kwakchaewon.github.io/chaewon_portfolio/#2)
 
 </div>
