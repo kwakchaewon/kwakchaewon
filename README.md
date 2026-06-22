@@ -1,5 +1,7 @@
 <div align="center">
 
+백엔드 개발자 · Java / Spring Boot · 보안 & 인프라 관심
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-바로가기-D97757?style=for-the-badge&logo=githubpages&logoColor=white)](https://kwakchaewon.github.io/chaewon_portfolio/#2)
 
 </div>
@@ -40,8 +42,6 @@
   <tr>
     <td><b>Tool</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Claude_Design-D97757?style=flat-square&logo=claude&logoColor=white">
-      <img src="https://img.shields.io/badge/Claude_Security-D97757?style=flat-square&logo=claude&logoColor=white">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
     </td>
@@ -54,9 +54,9 @@
 
 > **이든티앤에스** · 기술연구소 백엔드 / 기술지원 `2024.02 ~ ing`
 
-- **[은행권 표준 Oracle 환경 대응을 위한 MyBatis → JPA/QueryDSL 리팩토링](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4)**
+- **[Oracle 환경 대응을 위한 MyBatis → JPA/QueryDSL 리팩토링](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4)**
 - **[솔루션 보안 강화 및 H사 납품 대응](https://tidal-badger-060.notion.site/28c5e3aabcb480ba8464fccbc5495d11?v=28c5e3aabcb4810f8aac000c48dd540d)**  
-  └ 과학기술부 「주요정보통신기반시설 기술적 취약점 분석·평가 방법(2021)」 기준 취약 항목 대응 방안 수립
+  └ 과학기술부 「주요정보통신기반시설 기술적 취약점 분석·평가 방법(2021)」 기준 취약 항목 대응
 - **8개 OS 대상 Docker · RPM 설치 패키지 표준화**  
   └ RHEL 계열 3건, Debian 계열 4건, Windows 계열 구축
 
@@ -67,18 +67,19 @@
 ---
 
 ## 🚀 Projects
-### 🔐 [QuSign — NIST PQC 표준 기반 전자서명 SaaS](https://github.com/kwakchaewon/QuSign)
-`개인 프로젝트 · 2026.04 ~ ing`
-- 🔗 Demo: [https://qusign.link](https://qusign.link)
-- 🛡️ ML-DSA(NIST FIPS 204) 기반 전자서명 — PDF 업로드·서명·검증까지, 양자 암호화 시대에도 안전하게
-- ⚙️ [GitHub Actions → ECR → EC2 CI/CD + EventBridge·Lambda EC2 런타임 스케줄링으로 인프라 비용 33% 절감](https://github.com/kwakchaewon/QuSign?tab=readme-ov-file#아키텍쳐)
-- ML-DSA 키생성·서명·검증(Bouncy Castle 1.84 JCA) · PDF 서명값 삽입/추출(PDFBox) · 번들 서명(최대 5파일) · Redis Pub/Sub + SSE 실시간 알림 · 감사 로그 append-only(전자서명법 10년 보관) · OWASP Top 10 점검 완료
 
+### 🔐 [QuSign — NIST PQC 표준 기반 전자서명 SaaS](https://github.com/kwakchaewon/QuSign)
+`개인 프로젝트 · 2026.04 ~ ing` · Demo: [qusign.link](https://qusign.link)
+
+- ML-DSA(NIST FIPS 204) 기반 PDF 전자서명 — 업로드·서명·검증, 번들 서명(최대 5파일), Redis Pub/Sub + SSE 실시간 알림
+- [GitHub Actions → ECR → EC2 CI/CD + EventBridge·Lambda EC2 런타임 스케줄링으로 인프라 비용 33% 절감](https://github.com/kwakchaewon/QuSign?tab=readme-ov-file#아키텍쳐)
+- Bouncy Castle 1.84 JCA · PDFBox · 감사 로그 append-only(전자서명법 10년 보관) · OWASP Top 10 점검 완료
 
 ### 🐶 [강아지킴 — 반려동물 AI 피부 질환 진단 플랫폼](https://github.com/kwakchaewon/kangazikim)
-`팀 프로젝트 (백엔드)` · `2023.05 ~ 2023.07`
+`팀 프로젝트 (백엔드) · 2023.05 ~ 2023.07`
+
 - API 개발 및 AWS nginx + Django 기반 배포
-  
+
 ---
 
 ## ✍️ Archive
