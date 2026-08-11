@@ -99,11 +99,3 @@
 | AWS Certified Cloud Practitioner | 2021.02 |
 | 컴퓨터활용능력 1급 | 2020.12 |
 | AWS Certified Solutions Architect | 2026.08 |
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:D97757&height=120&section=footer" width="100%"/>
-
-</div>
