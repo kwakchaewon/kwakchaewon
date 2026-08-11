@@ -94,8 +94,8 @@
 
 | 자격증 | 취득 |
 |:---|:---:|
+| AWS Certified Solutions Architect | 2026.08 |
 | 정보처리기사 | 2025.07 |
 | 국가공인 SQL 개발자 (SQLD) | 2021.03 |
 | AWS Certified Cloud Practitioner | 2021.02 |
 | 컴퓨터활용능력 1급 | 2020.12 |
-| AWS Certified Solutions Architect | 2026.08 |
