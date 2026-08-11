@@ -104,9 +104,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kwakchaewon&show_icons=true&hide_border=true&title_color=D97757&icon_color=6DB33F&include_all_commits=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakchaewon&layout=compact&hide_border=true&title_color=D97757&langs_count=8" height="160"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:D97757&height=120&section=footer" width="100%"/>
 
 </div>
