@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="464" viewBox="0 0 840 464" role="img" aria-label="경력: 이든티앤에스 기술연구소 대리 · 백엔드 / 기술지원 (2024.02 ~ 재직 중) - 표준 Oracle 환경 대응을 위한 MyBatis → JPA/QueryDSL 리팩토링, RPM · Inno Setup 기반 설치 패키지 표준화, 솔루션 보안 취약점 개선 및 고객사 납품 대응, 업무 프로세스 AX 전환 / 태화이노베이션 SI사업부 사원 (2019.09 ~ 2020.07) - 국민은행 해지 서류 분류 시스템 유지보수">
+  <style>
+    .company { font: 700 18px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #D97757; letter-spacing: -0.3px; }
+    .role { font: 500 14px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #57606A; letter-spacing: 0; }
+    .period { font: 500 14px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #57606A; letter-spacing: 0.5px; }
+    .title { font: 700 16px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #1F2328; }
+    .sub { font: 500 14px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #1F2328; }
+    .em { font-weight: 700; fill: #D97757; }
+    .dot { fill: #D97757; }
+    .div { stroke: #8B949E; stroke-opacity: 0.3; stroke-width: 1; }
+  </style>
+
+  <g transform="translate(0,12)">
+  <text class="company" x="32" y="30">이든티앤에스<tspan class="role" dx="10">기술연구소 대리 · 백엔드 / 기술지원</tspan></text>
+  <text class="period" x="808" y="30" text-anchor="end">2024.02 ~ 재직 중</text>
+  <circle class="dot" cx="38" cy="73" r="3"/>
+  <text class="title" x="52" y="78">표준 Oracle 환경 대응을 위한 MyBatis → JPA/QueryDSL 리팩토링</text>
+  <text class="sub" x="52" y="102">Oracle 기준 DDL 재설계 · QueryDSL 전환으로 <tspan class="em">은행권 수주</tspan></text>
+  <circle class="dot" cx="38" cy="133" r="3"/>
+  <text class="title" x="52" y="138">RPM · Inno Setup 기반 설치 패키지 표준화</text>
+  <text class="sub" x="52" y="162">Linux 8개 OS RPM · Windows 단일 .exe로 통일 (<tspan class="em">34개 항목 자동 검증, 배포 용량 53%↓</tspan>)</text>
+  <circle class="dot" cx="38" cy="193" r="3"/>
+  <text class="title" x="52" y="198">솔루션 보안 취약점 개선 및 고객사 납품 대응</text>
+  <text class="sub" x="52" y="222">고객사마다 다른 보안 요구로 매번 개별 대응 →</text>
+  <text class="sub" x="52" y="246">과기정통부 「주요정보통신기반시설 기술적 취약점 분석·평가 방법(2021)」을 공통 기준으로 <tspan class="em">조치·증빙 절차 표준화</tspan></text>
+  <circle class="dot" cx="38" cy="277" r="3"/>
+  <text class="title" x="52" y="282">업무 프로세스 AX 전환</text>
+  <text class="sub" x="52" y="306"><tspan class="em">Claude 스킬 30개</tspan>로 개발 사이클 정형화 · Notion MCP 표준 문서 파이프라인 · openKB 사내 아카이브 챗봇</text>
+  <line class="div" x1="24" y1="326" x2="816" y2="326"/>
+  <text class="company" x="32" y="368">태화이노베이션<tspan class="role" dx="10">SI사업부 사원</tspan></text>
+  <text class="period" x="808" y="368" text-anchor="end">2019.09 ~ 2020.07</text>
+  <circle class="dot" cx="38" cy="411" r="3"/>
+  <text class="title" x="52" y="416">국민은행 해지 서류 분류 시스템 유지보수</text>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="204" viewBox="0 0 400 204" role="img" aria-label="핵심 성과: API·스케줄러 200개 이상 JPA 전환, 설치·장애 대응 비용 90% 절감, 보안 취약점 70건 이상 개선, Claude 스킬 30개 정형화">
+  <style>
+    .num { font: 700 32px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #D97757; letter-spacing: -0.5px; }
+    .unit { font-size: 19px; font-weight: 600; }
+    .label { font: 500 14px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #57606A; }
+    .div { stroke: #8B949E; stroke-opacity: 0.3; stroke-width: 1; }
+  </style>
+
+  <g transform="translate(0,12)">
+  <line class="div" x1="200" y1="16" x2="200" y2="164"/>
+  <line class="div" x1="16" y1="90" x2="384" y2="90"/>
+  <g text-anchor="middle">
+    <text class="num" x="100" y="46">200<tspan class="unit">+</tspan></text>
+    <text class="label" x="100" y="72">API·스케줄러 JPA 전환</text>
+    <text class="num" x="300" y="46">90<tspan class="unit">%↓</tspan></text>
+    <text class="label" x="300" y="72">설치·장애 대응 비용</text>
+    <text class="num" x="100" y="136">70<tspan class="unit">+</tspan></text>
+    <text class="label" x="100" y="162">보안 취약점 개선</text>
+    <text class="num" x="300" y="136">30<tspan class="unit">개</tspan></text>
+    <text class="label" x="300" y="162">Claude 스킬 정형화</text>
+  </g>
+  </g>
+</svg>

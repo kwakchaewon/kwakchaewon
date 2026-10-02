@@ -5,7 +5,9 @@
 <br>
 
 <a><picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/metrics-mobile-light.svg">
   <source media="(max-width: 600px)" srcset="./assets/metrics-mobile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics-light.svg">
   <img src="./assets/metrics.svg" width="100%" alt="핵심 성과">
 </picture></a>
 
@@ -16,20 +18,26 @@
 ## 🏢 Career
 
 <a><picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/career-mobile-light.svg">
   <source media="(max-width: 600px)" srcset="./assets/career-mobile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/career-light.svg">
   <img src="./assets/career.svg" width="100%" alt="경력">
 </picture></a>
 
 ## 🛠 Stack
 
 <a><picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/stack-mobile-light.svg">
   <source media="(max-width: 600px)" srcset="./assets/stack-mobile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
   <img src="./assets/stack.svg" width="100%" alt="기술 스택">
 </picture></a>
 
 ## 📜 Certification
 
 <a><picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/certification-mobile-light.svg">
   <source media="(max-width: 600px)" srcset="./assets/certification-mobile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/certification-light.svg">
   <img src="./assets/certification.svg" width="100%" alt="자격증">
 </picture></a>
