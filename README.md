@@ -1,6 +1,23 @@
 <div align="center">
 
+# 곽채원
+
+**Backend / Infra Engineer**
+
+레거시 전환 · 설치 표준화 · 보안 대응으로 반복 업무를 구조로 줄이는 백엔드 개발자
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-바로가기-D97757?style=for-the-badge&logo=githubpages&logoColor=white)](https://kwakchaewon.github.io/chaewon_portfolio/#2)
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><h3>200+</h3>API·스케줄러<br>JPA 전환</td>
+    <td align="center"><h3>90%↓</h3>설치·장애<br>대응 비용</td>
+    <td align="center"><h3>70+</h3>보안 취약점<br>개선</td>
+    <td align="center"><h3>1,252건</h3>사내 문서<br>지식화</td>
+  </tr>
+</table>
 
 </div>
 
