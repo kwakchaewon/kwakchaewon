@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./assets/metrics.svg" width="100%" alt="핵심 성과">
+<a><img src="./assets/metrics.svg" width="100%" alt="핵심 성과"></a>
 
 </div>
 
@@ -12,12 +12,12 @@
 
 ## 🏢 Career
 
-<img src="./assets/career.svg" width="100%" alt="경력">
+<a><img src="./assets/career.svg" width="100%" alt="경력"></a>
 
 ## 🛠 Stack
 
-<img src="./assets/stack.svg" width="100%" alt="기술 스택">
+<a><img src="./assets/stack.svg" width="100%" alt="기술 스택"></a>
 
 ## 📜 Certification
 
-<img src="./assets/certification.svg" width="100%" alt="자격증">
+<a><img src="./assets/certification.svg" width="100%" alt="자격증"></a>
