@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="128" viewBox="0 0 840 128" role="img" aria-label="자격증: AWS Certified Solutions Architect – Associate (2026.09, Amazon Web Services), 정보처리기사 (2025.09, 한국산업인력공단), SQLD (2021.03, 한국데이터산업진흥원), 컴퓨터활용능력 1급 (2020.12, 대한상공회의소)">
+  <style>
+    .date { font: 500 12px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #8B949E; letter-spacing: 0.5px; }
+    .name { font: 700 21px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #D97757; letter-spacing: -0.3px; }
+    .org { font: 500 13px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #8B949E; }
+    .div { stroke: #8B949E; stroke-opacity: 0.3; stroke-width: 1; }
+  </style>
+
+  <line class="div" x1="210" y1="26" x2="210" y2="102"/>
+  <line class="div" x1="420" y1="26" x2="420" y2="102"/>
+  <line class="div" x1="630" y1="26" x2="630" y2="102"/>
+
+  <g text-anchor="middle">
+    <text class="date" x="105" y="40">2026.09</text>
+    <text class="name" x="105" y="70">AWS SAA</text>
+    <text class="org" x="105" y="94">Amazon Web Services</text>
+    <text class="date" x="315" y="40">2025.09</text>
+    <text class="name" x="315" y="70">정보처리기사</text>
+    <text class="org" x="315" y="94">한국산업인력공단</text>
+    <text class="date" x="525" y="40">2021.03</text>
+    <text class="name" x="525" y="70">SQLD</text>
+    <text class="org" x="525" y="94">한국데이터산업진흥원</text>
+    <text class="date" x="735" y="40">2020.12</text>
+    <text class="name" x="735" y="70">컴퓨터활용능력 1급</text>
+    <text class="org" x="735" y="94">대한상공회의소</text>
+  </g>
+</svg>
