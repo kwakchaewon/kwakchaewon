@@ -76,23 +76,7 @@
 - [GitHub Actions → ECR → EC2 CI/CD + EventBridge·Lambda EC2 런타임 스케줄링으로 인프라 비용 33% 절감](https://github.com/kwakchaewon/QuSign?tab=readme-ov-file#아키텍쳐)
 - Bouncy Castle 1.84 JCA · PDFBox · 감사 로그 append-only(전자서명법 10년 보관) · OWASP Top 10 점검 완료
 
-### 🐶 [강아지킴 — 반려동물 AI 피부 질환 진단 플랫폼](https://github.com/kwakchaewon/kangazikim)
-`팀 프로젝트 (백엔드) · 2023.05 ~ 2023.07`
-
-- API 개발 및 AWS nginx + Django 기반 배포
-
 ---
-
-## ✍️ Archive
-
-기술 이슈와 학습 내용을 기록하고 있습니다.
-
-- [백엔드는 처음이라 (Notion)](https://tidal-badger-060.notion.site/1795e3aabcb48053b02be3d91b5da9f3?pvs=74)
-- [AWS VPC, EC2, EBS, S3, ASG 실습](https://ksh03003.tistory.com/61)
-- [라이엇 API 분석](https://ksh03003.tistory.com/89)
-
----
-
 ## 📜 Certification
 
 | 자격증 | 취득 |
