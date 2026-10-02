@@ -15,11 +15,11 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square">
     </td>
   </tr>
   <tr>
-    <td><b>Framework</b></td>
+    <td><b>Frontend/Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
@@ -27,21 +27,33 @@
     </td>
   </tr>
   <tr>
-    <td><b>Infra</b></td>
+    <td><b>Database</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
-      <img src="https://img.shields.io/badge/RPM-EE0000?style=flat-square&logo=redhat&logoColor=white">
-      <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white">
-      <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=flat-square&logo=aws&logoColor=white">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
       <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
     </td>
   </tr>
   <tr>
-    <td><b>Tool</b></td>
+    <td><b>Infra / DevOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=flat-square&logo=aws&logoColor=white">
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+      <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white">
+      <img src="https://img.shields.io/badge/RPM-EE0000?style=flat-square&logo=redhat&logoColor=white">
+      <img src="https://img.shields.io/badge/Inno_Setup-264DE4?style=flat-square&logo=windows&logoColor=white">
+      <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / AX</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
+      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white">
+      <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square">
+      <img src="https://img.shields.io/badge/openKB-0F766E?style=flat-square">
     </td>
   </tr>
 </table>
