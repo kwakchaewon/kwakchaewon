@@ -90,7 +90,7 @@
 
 | 자격증 | 발급기관 | 취득 |
 |:---|:---:|:---:|
-| AWS Certified Solutions Architect | Amazon Web Services | 2026.09 |
-| 정보처리기사 | 한국산업인력공단 | 2025.07 |
+| AWS Certified Solutions Architect – Associate | Amazon Web Services | 2026.09 |
+| 정보처리기사 | 한국산업인력공단 | 2025.09 |
 | 국가공인 SQL 개발자 (SQLD) | 한국데이터산업진흥원 | 2021.03 |
 | 컴퓨터활용능력 1급 | 대한상공회의소 | 2020.12 |
