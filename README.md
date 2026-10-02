@@ -47,7 +47,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Frontend/Backend</b></td>
+    <td><b>Backend / Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
       <img src="https://img.shields.io/badge/JPA%2FQueryDSL-59666C?style=flat-square&logo=hibernate&logoColor=white">
