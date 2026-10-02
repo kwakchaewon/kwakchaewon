@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="120" viewBox="0 0 840 120" role="img" aria-label="핵심 성과: API·스케줄러 200개 이상 JPA 전환, 설치·장애 대응 비용 90% 절감, 보안 취약점 70건 이상 개선, 사내 문서 1,252건 지식화">
+  <style>
+    .num { font: 700 34px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #D97757; letter-spacing: -0.5px; }
+    .unit { font-size: 20px; font-weight: 600; }
+    .label { font: 500 14px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #8B949E; }
+    .div { stroke: #8B949E; stroke-opacity: 0.3; stroke-width: 1; }
+  </style>
+
+  <line class="div" x1="210" y1="28" x2="210" y2="92"/>
+  <line class="div" x1="420" y1="28" x2="420" y2="92"/>
+  <line class="div" x1="630" y1="28" x2="630" y2="92"/>
+
+  <g text-anchor="middle">
+    <text class="num" x="105" y="62">200<tspan class="unit">+</tspan></text>
+    <text class="label" x="105" y="90">API·스케줄러 JPA 전환</text>
+
+    <text class="num" x="315" y="62">90<tspan class="unit">%↓</tspan></text>
+    <text class="label" x="315" y="90">설치·장애 대응 비용</text>
+
+    <text class="num" x="525" y="62">70<tspan class="unit">+</tspan></text>
+    <text class="label" x="525" y="90">보안 취약점 개선</text>
+
+    <text class="num" x="735" y="62">1,252<tspan class="unit">건</tspan></text>
+    <text class="label" x="735" y="90">사내 문서 지식화</text>
+  </g>
+</svg>

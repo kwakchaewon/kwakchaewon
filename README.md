@@ -10,14 +10,7 @@
 
 <br>
 
-<table>
-  <tr>
-    <td align="center"><h3>200+</h3>API·스케줄러<br>JPA 전환</td>
-    <td align="center"><h3>90%↓</h3>설치·장애<br>대응 비용</td>
-    <td align="center"><h3>70+</h3>보안 취약점<br>개선</td>
-    <td align="center"><h3>1,252건</h3>사내 문서<br>지식화</td>
-  </tr>
-</table>
+<img src="./assets/metrics.svg" width="100%" alt="핵심 성과">
 
 </div>
 
