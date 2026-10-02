@@ -15,7 +15,6 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square">
     </td>
   </tr>
   <tr>
@@ -29,7 +28,7 @@
   <tr>
     <td><b>Database</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
       <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
     </td>
@@ -43,17 +42,18 @@
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
       <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white">
       <img src="https://img.shields.io/badge/RPM-EE0000?style=flat-square&logo=redhat&logoColor=white">
-      <img src="https://img.shields.io/badge/Inno_Setup-264DE4?style=flat-square&logo=windows&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Inno_Setup-264DE4?style=flat-square&logo=package&logoColor=white">
       <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
     </td>
   </tr>
   <tr>
     <td><b>AI / AX</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white">
       <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white">
-      <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square">
-      <img src="https://img.shields.io/badge/openKB-0F766E?style=flat-square">
+      <img src="https://img.shields.io/badge/Notion_MCP-000000?style=flat-square&logo=notion&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/RAG-6E56CF?style=flat-square&logo=search&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/openKB-0F766E?style=flat-square&logo=book&logoColor=white">
     </td>
   </tr>
 </table>
