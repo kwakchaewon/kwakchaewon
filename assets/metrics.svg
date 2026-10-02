@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="120" viewBox="0 0 840 120" role="img" aria-label="핵심 성과: API·스케줄러 200개 이상 JPA 전환, 설치·장애 대응 비용 90% 절감, 보안 취약점 70건 이상 개선, 사내 문서 1,252건 지식화">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="120" viewBox="0 0 840 120" role="img" aria-label="핵심 성과: API·스케줄러 200개 이상 JPA 전환, 설치·장애 대응 비용 90% 절감, 보안 취약점 70건 이상 개선, Claude 스킬 30개 정형화">
   <style>
     .num { font: 700 34px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #D97757; letter-spacing: -0.5px; }
     .unit { font-size: 20px; font-weight: 600; }
@@ -20,7 +20,7 @@
     <text class="num" x="525" y="62">70<tspan class="unit">+</tspan></text>
     <text class="label" x="525" y="90">보안 취약점 개선</text>
 
-    <text class="num" x="735" y="62">1,252<tspan class="unit">건</tspan></text>
-    <text class="label" x="735" y="90">사내 문서 지식화</text>
+    <text class="num" x="735" y="62">30<tspan class="unit">개</tspan></text>
+    <text class="label" x="735" y="90">Claude 스킬 정형화</text>
   </g>
 </svg>
