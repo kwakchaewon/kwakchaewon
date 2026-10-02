@@ -29,52 +29,7 @@
 
 ## 🛠 Stack
 
-<table>
-  <tr>
-    <td><b>Language</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend / Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-      <img src="https://img.shields.io/badge/JPA%2FQueryDSL-59666C?style=flat-square&logo=hibernate&logoColor=white">
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
-      <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Infra / DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
-      <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=flat-square&logo=aws&logoColor=white">
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
-      <img src="https://img.shields.io/badge/RPM-EE0000?style=flat-square&logo=redhat&logoColor=white">
-      <img src="https://custom-icon-badges.demolab.com/badge/Inno_Setup-264DE4?style=flat-square&logo=package&logoColor=white">
-      <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI / AX</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white">
-      <img src="https://img.shields.io/badge/Notion_MCP-000000?style=flat-square&logo=notion&logoColor=white">
-      <img src="https://custom-icon-badges.demolab.com/badge/openKB-0F766E?style=flat-square&logo=book&logoColor=white">
-    </td>
-  </tr>
-</table>
+<img src="./assets/stack.svg" width="100%" alt="기술 스택">
 
 ## 📜 Certification
 
