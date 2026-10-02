@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="366" viewBox="0 0 400 366" role="img" aria-label="기술 스택: Language - Java, Kotlin, Python / Backend / Frontend - Spring Boot, JPA / QueryDSL, Vue.js / Database - Oracle, MariaDB, Redis / Infra / DevOps - Docker, Jenkins, AWS, Nginx, RPM, Inno Setup, Shell Script / AI / AX - Claude, Notion MCP, openKB">
   <style>
-    .cat { font: 600 13px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #9198A1; }
-    .item { font: 600 13px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #9198A1; }
+    .cat { font: 600 13px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #E6EDF3; }
+    .item { font: 600 13px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #E6EDF3; }
   </style>
 
   <rect x="0.5" y="0.5" width="399" height="365" rx="12" fill="#161B22" stroke="#30363D"/>
