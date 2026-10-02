@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="216" viewBox="0 0 840 216" role="img" aria-label="자격증: AWS Certified Solutions Architect – Associate (2026.09, Amazon Web Services), 정보처리기사 (2025.09, 한국산업인력공단), SQLD (2021.03, 한국데이터산업진흥원), 컴퓨터활용능력 1급 (2020.12, 대한상공회의소)">
   <style>
-    .date { font: 500 13px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #8B949E; letter-spacing: 0.5px; }
+    .date { font: 500 13px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #57606A; letter-spacing: 0.5px; }
     .name { font: 700 18px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #D97757; letter-spacing: -0.3px; }
-    .org { font: 500 13px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #8B949E; }
+    .org { font: 500 13px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #57606A; }
     .div { stroke: #8B949E; stroke-opacity: 0.3; stroke-width: 1; }
+    @media (prefers-color-scheme: dark) { .date, .org { fill: #9198A1; } }
   </style>
 
   <line class="div" x1="24" y1="60" x2="816" y2="60"/>
