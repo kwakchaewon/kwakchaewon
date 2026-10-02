@@ -1,12 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="256" viewBox="0 0 400 256" role="img" aria-label="자격증: AWS Certified Solutions Architect – Associate (2026.09, Amazon Web Services), 정보처리기사 (2025.09, 한국산업인력공단), SQLD (2021.03, 한국데이터산업진흥원), 컴퓨터활용능력 1급 (2020.12, 대한상공회의소)">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280" viewBox="0 0 400 280" role="img" aria-label="자격증: AWS Certified Solutions Architect – Associate (2026.09, Amazon Web Services), 정보처리기사 (2025.09, 한국산업인력공단), SQLD (2021.03, 한국데이터산업진흥원), 컴퓨터활용능력 1급 (2020.12, 대한상공회의소)">
   <style>
-    .date { font: 500 13px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #57606A; letter-spacing: 0.5px; }
+    .date { font: 500 13px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #9198A1; letter-spacing: 0.5px; }
     .name { font: 700 17px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #D97757; letter-spacing: -0.3px; }
-    .org { font: 500 13px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #57606A; }
+    .org { font: 500 13px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #9198A1; }
     .div { stroke: #8B949E; stroke-opacity: 0.3; stroke-width: 1; }
-    @media (prefers-color-scheme: dark) { .date, .org { fill: #9198A1; } }
   </style>
 
+  <rect x="0.5" y="0.5" width="399" height="279" rx="12" fill="#161B22" stroke="#30363D"/>
+  <g transform="translate(0,12)">
   <line class="div" x1="16" y1="64" x2="384" y2="64"/>
   <line class="div" x1="16" y1="128" x2="384" y2="128"/>
   <line class="div" x1="16" y1="192" x2="384" y2="192"/>
@@ -22,4 +23,5 @@
   <text class="name" x="16" y="222">컴퓨터활용능력 1급</text>
   <text class="date" x="384" y="222" text-anchor="end">2020.12</text>
   <text class="org" x="16" y="242">대한상공회의소</text>
+  </g>
 </svg>

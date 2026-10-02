@@ -1,12 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="120" viewBox="0 0 840 120" role="img" aria-label="핵심 성과: API·스케줄러 200개 이상 JPA 전환, 설치·장애 대응 비용 90% 절감, 보안 취약점 70건 이상 개선, Claude 스킬 30개 정형화">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="144" viewBox="0 0 840 144" role="img" aria-label="핵심 성과: API·스케줄러 200개 이상 JPA 전환, 설치·장애 대응 비용 90% 절감, 보안 취약점 70건 이상 개선, Claude 스킬 30개 정형화">
   <style>
     .num { font: 700 34px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #D97757; letter-spacing: -0.5px; }
     .unit { font-size: 20px; font-weight: 600; }
-    .label { font: 500 14px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #57606A; }
+    .label { font: 500 14px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #9198A1; }
     .div { stroke: #8B949E; stroke-opacity: 0.3; stroke-width: 1; }
-    @media (prefers-color-scheme: dark) { .label { fill: #9198A1; } }
   </style>
 
+  <rect x="0.5" y="0.5" width="839" height="143" rx="12" fill="#161B22" stroke="#30363D"/>
+  <g transform="translate(0,12)">
   <line class="div" x1="210" y1="28" x2="210" y2="92"/>
   <line class="div" x1="420" y1="28" x2="420" y2="92"/>
   <line class="div" x1="630" y1="28" x2="630" y2="92"/>
@@ -23,5 +24,6 @@
 
     <text class="num" x="735" y="62">30<tspan class="unit">개</tspan></text>
     <text class="label" x="735" y="90">Claude 스킬 정형화</text>
+  </g>
   </g>
 </svg>
