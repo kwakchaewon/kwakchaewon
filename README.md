@@ -4,7 +4,7 @@
 
 **백엔드 / 인프라 / AX**
 
-레거시 전환 · 설치 표준화 · 보안 대응으로 반복 업무를 구조로 줄이는 백엔드 개발자
+레거시 전환 · 설치 표준화 · 보안 대응으로 반복 업무를 구조로 줄이는 개발자
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-바로가기-D97757?style=for-the-badge&logo=githubpages&logoColor=white)](https://kwakchaewon.github.io/chaewon_portfolio/#2)
 
