@@ -6,6 +6,25 @@
 
 <br>
 
+## 🏢 Career
+
+> **이든티앤에스** · 기술연구소 백엔드 / 기술지원 `2024.02 ~ ing`
+
+- **[표준 Oracle 환경 대응을 위한 MyBatis → JPA/QueryDSL 리팩토링](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4)**  
+  └ API·스케줄러 200여 개 전환, batch 단위 flush/clear로 대량 처리 메모리 안정화
+- **RPM · Inno Setup 기반 설치 패키지 표준화**  
+  └ 8개 OS 대상 설치 자동화, Windows 단일 .exe 패키지 구축 · 설치 및 장애 대응 비용 90% 이상 절감
+- **[솔루션 보안 취약점 개선 및 고객사 납품 대응](https://tidal-badger-060.notion.site/28c5e3aabcb480ba8464fccbc5495d11?v=28c5e3aabcb4810f8aac000c48dd540d)**  
+  └ 과기정통부 「주요정보통신기반시설 기술적 취약점 분석·평가 방법(2021)」 기준 70건 이상 개선
+- **업무 프로세스 AX 전환**  
+  └ Claude Code 스킬 기반 개발 사이클, Notion MCP 문서 파이프라인, openKB 사내 아카이브 챗봇
+
+> **태화이노베이션** `2019.09 ~ 2020.07`
+
+- **국민은행 해지 서류 분류 시스템 유지보수**
+
+---
+
 ## 🛠 Stack
 
 <table>
@@ -57,25 +76,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🏢 Career
-
-> **이든티앤에스** · 기술연구소 백엔드 / 기술지원 `2024.02 ~ ing`
-
-- **[표준 Oracle 환경 대응을 위한 MyBatis → JPA/QueryDSL 리팩토링](https://tidal-badger-060.notion.site/Maria-DB-to-Oracle-Migration-1c65e3aabcb480c8a1a9d04997a407d4?pvs=4)**  
-  └ API·스케줄러 200여 개 전환, batch 단위 flush/clear로 대량 처리 메모리 안정화
-- **RPM · Inno Setup 기반 설치 패키지 표준화**  
-  └ 8개 OS 대상 설치 자동화, Windows 단일 .exe 패키지 구축 · 설치 및 장애 대응 비용 90% 이상 절감
-- **[솔루션 보안 취약점 개선 및 고객사 납품 대응](https://tidal-badger-060.notion.site/28c5e3aabcb480ba8464fccbc5495d11?v=28c5e3aabcb4810f8aac000c48dd540d)**  
-  └ 과기정통부 「주요정보통신기반시설 기술적 취약점 분석·평가 방법(2021)」 기준 70건 이상 개선
-- **업무 프로세스 AX 전환**  
-  └ Claude Code 스킬 기반 개발 사이클, Notion MCP 문서 파이프라인, openKB 사내 아카이브 챗봇
-
-> **태화이노베이션** `2019.09 ~ 2020.07`
-
-- **국민은행 해지 서류 분류 시스템 유지보수**
 
 ---
 
