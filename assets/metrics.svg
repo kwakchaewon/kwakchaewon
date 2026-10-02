@@ -2,7 +2,7 @@
   <style>
     .num { font: 700 34px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #D97757; letter-spacing: -0.5px; }
     .unit { font-size: 20px; font-weight: 600; }
-    .label { font: 500 14px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #9198A1; }
+    .label { font: 500 14px 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif; fill: #E6EDF3; }
     .div { stroke: #8B949E; stroke-opacity: 0.3; stroke-width: 1; }
   </style>
 
