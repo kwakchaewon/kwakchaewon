@@ -1,9 +1,3 @@
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-바로가기-D97757?style=for-the-badge&logo=githubpages&logoColor=white)](https://kwakchaewon.github.io/chaewon_portfolio/#2)
-
-</div>
-
 <p align="center">
 <a><picture>
 <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/metrics-mobile-light.svg">
